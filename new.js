@@ -12,3 +12,6 @@ hello()
 const newF = ()=>{
     console.log("merging conflict")
 }
+
+apppend()
+newF()
